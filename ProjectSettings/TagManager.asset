@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Collector
+  - Control
+  - Conveyer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4156796359
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sprite_Layering_0
+    uniqueID: 931937407
+    locked: 0
+  - name: Sprite_Layering_1
+    uniqueID: 2714545955
+    locked: 0
+  - name: Sprite_Layering_2
+    uniqueID: 1360993631
+    locked: 0
+  - name: Floor
+    uniqueID: 692577631
+    locked: 0
+  - name: Overlay
+    uniqueID: 707666201
+    locked: 0

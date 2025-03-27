@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 19b58172bbd2b1040a1420d3ff433247
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Locked_Sprite: {fileID: 21300000, guid: 9793303996e1c80478b4821834cf93bb, type: 3}
+  - Unlocked_Sprite: {fileID: 21300000, guid: b873f60d9e69fc94ab23871cd4e3d81b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
